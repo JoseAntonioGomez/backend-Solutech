@@ -1,0 +1,12 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Secretos / configs locales
+**/appsettings.Development.json
+**/appsettings.Local.json
+secrets.json
+.env
